@@ -1,1 +1,1 @@
-# gitdemo is demo project for learning git.
+# gitdemo is a demo project for learning git.
